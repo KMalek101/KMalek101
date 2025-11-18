@@ -4,6 +4,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-KMalek101-181717?style=for-the-badge&logo=github)](https://github.com/KMalek101)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/malek-kaouche-4245aa396/)
+[![Discord](https://img.shields.io/badge/Discord-malek__dev-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/598472991751274497)
 
 **React • Next.js • TypeScript • Rust • Tauri • System Architecture**
 
@@ -88,6 +89,8 @@ Modern, high-performance translation application built from the ground up with o
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaoucheaneslive@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/KMalek101)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malek-kaouche-4245aa396/)
+[![Discord](https://img.shields.io/badge/Discord-malek__dev-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/598472991751274497)
+
 
 **Open for collaborations, innovative projects, and tech discussions**
 
