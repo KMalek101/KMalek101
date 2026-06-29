@@ -3,7 +3,7 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-KMalek101-181717?style=for-the-badge&logo=github)](https://github.com/KMalek101)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/malek-kaouche-4245aa396/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/malek-kaouche-53953730b/)
 [![Discord](https://img.shields.io/badge/Discord-malek__dev-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/598472991751274497)
 
 **AI Engineering • RAG Pipelines • Autonomous Agents • System Architecture • Full-Stack**
