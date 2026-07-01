@@ -49,6 +49,14 @@ AI Engineer and Full-Stack Developer with a focus on building intelligent, produ
 
 ## 🎯 Featured Projects
 
+### 📚 9arini — AI Study Assistant for BAC Students
+A deployed, production RAG-powered tutoring platform helping Algerian BAC (baccalauréat) students study smarter. Combines a full retrieval pipeline with an agentic reasoning loop, multi-tier caching, and a polished student-facing UI — built and shipped end to end, not a demo.
+
+**Tech Stack:** FastAPI, React/Vite, Gemini 2.5 Flash-Lite, FAISS + BGE-M3 embeddings, Cloudflare (D1 / KV / Vectorize / Workers)  
+**Highlights:** Agentic retrieval loop with dedicated tools, 3-layer semantic caching (exact match → retrieval hash → vector search), LLM-as-judge eval pipeline scoring in Arabic, 92.5% Recall@3
+
+🔗 [Live App](https://9arini.vercel.app/) · [View Project →](https://github.com/KMalek101)
+
 ### 🤖 RAG & Agent Systems *(core focus)*
 Designing and building retrieval-augmented generation pipelines with multi-step reasoning, tool use, and memory. Includes work on document ingestion, chunking strategies, vector search, hybrid retrieval, and agentic orchestration with LangChain and LlamaIndex.
 
@@ -63,21 +71,20 @@ React NPM package providing elegant, customizable chat UI components — well-su
 
 [View Project →](https://github.com/KMalek101/chatana)
 
-### 🌍 Translator App
-Modern translation application built with optimized architecture and real-time capabilities.
+### ⏱️ Hinari — Desktop Usage Tracker
+A desktop app that runs quietly in the background, tracking active window time to show exactly where your hours go — daily, weekly, and monthly breakdowns, top-app rankings, and visual usage history. Fully local, no cloud, no telemetry.
 
-**Tech Stack:** React, TypeScript, Translation APIs  
-**Highlights:** Cross-platform compatibility, real-time translation, intuitive interface
+**Tech Stack:** Desktop app, local JSON storage (`~/.local/share/hinari`)  
+**Highlights:** Active window detection, session tracking, charts & history, 100% local-first data — currently v0.9 (Linux Beta)
 
-[View Project →](https://github.com/KMalek101/translator-app)
+[View Project →](https://github.com/KMalek101/Hinari)
 
 ---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KMalek101&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KMalek101&theme=radical&hide_border=true" alt="GitHub Streak" height="170">
+  <img src="https://streak-stats.demolab.com/?user=KMalek101&theme=radical&hide_border=true" alt="GitHub Streak" height="170">
 </div>
 
 ---
